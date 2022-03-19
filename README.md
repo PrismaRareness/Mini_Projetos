@@ -4,3 +4,5 @@ Miniprojetos como este(s) são bem importantes para a boa prática, não que nã
 - Simulador: Paradoxo do Aniversário
 - Cifra de Cesar
 - Simulador: lançamento de dados
+- Sequência de Collatz
+- Multiplayer: corrida de caracois
