@@ -7,3 +7,4 @@ Miniprojetos como este(s) são bem importantes para a boa prática, não que nã
 - Sequência de Collatz
 - Multiplayer: corrida de caracois
 - Jogo de Apostas
+- Sequência de Fibonacci
