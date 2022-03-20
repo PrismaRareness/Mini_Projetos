@@ -6,3 +6,4 @@ Miniprojetos como este(s) são bem importantes para a boa prática, não que nã
 - Simulador: lançamento de dados
 - Sequência de Collatz
 - Multiplayer: corrida de caracois
+- Jogo de Apostas
