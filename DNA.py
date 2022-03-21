@@ -9,6 +9,7 @@ SEQUENCIA = [
      '     #{}---{}#',
      '    #{}-----{}#',
      '   #{}------{}#',
+     '   #{}------{}#',
      '   #{}-----{}#',
      '    #{}---{}#',
      '    #{}-{}#',
@@ -30,12 +31,14 @@ try:
     
     while True:
         indice_sequencia = indice_sequencia + 1
-        if indice_sequencia== len(SEQUENCIA):
+        if indice_sequencia == len(SEQUENCIA):
             indice_sequencia = 0
             
         if indice_sequencia == 0 or indice_sequencia == 9:
             print(SEQUENCIA[indice_sequencia])
             continue
+        
+        
         Selecao_aleatoria = random.randint(1, 4)
         if Selecao_aleatoria == 1:
             nucleotideo_esquerdo, nucleotideo_direito = 'A', 'T'
