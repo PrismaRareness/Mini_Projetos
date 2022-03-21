@@ -8,3 +8,4 @@ Miniprojetos como este(s) são bem importantes para a prática, não que não se
 - Multiplayer: corrida de caracois
 - Jogo de Apostas
 - Sequência de Fibonacci
+- DNA: animação
